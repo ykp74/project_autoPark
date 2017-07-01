@@ -11,7 +11,7 @@
 //grobal
 //#define USE_SOFT_SREIAL_PORT
 #define DGB_MSG(a) Serial.print("LOG : "); Serial.println(a)
- 
+
 //Output indicator
 #define OUTPUT_LED  13
 #define OUTPUT_SPK  10      //PWM only
